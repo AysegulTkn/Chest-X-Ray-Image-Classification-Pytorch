@@ -1,1 +1,1 @@
-# -Chest-X-Ray-Image-Classification-Pytroch-
+# Chest-X-Ray-Image-Classification-Pytorch
